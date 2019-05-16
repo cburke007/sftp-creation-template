@@ -16,6 +16,9 @@
     },
     "existingFileShareName": {
       "value": "GET-PREREQ-existingFileShareName"
+    },
+    "sftpUserPerms": {
+      "value": "755"
     }
   }
 }
